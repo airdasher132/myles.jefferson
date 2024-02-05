@@ -13,5 +13,5 @@
 
  <b>Microsoft Azure</b>
 
- -[Configuring On-premises Active Directory within Azure VMs](https://github.com/airdasher132/configure-ad)
- -[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/airdasher132/azure-nsg)
+ - [Configuring On-premises Active Directory within Azure VMs](https://github.com/airdasher132/configure-ad)
+ - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/airdasher132/azure-nsg)
