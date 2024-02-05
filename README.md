@@ -1,1 +1,1 @@
-# Hello! My name is Myles Jefferson, an Intermediate IT Worker
+# Hello! I'm Myles Jefferson, an Intermediate IT Worker
